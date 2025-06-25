@@ -1,2 +1,4 @@
 *.fa
 .ipynb_checkpoints
+*.txt
+*.fasta
